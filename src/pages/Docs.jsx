@@ -4,10 +4,6 @@ const docs = [
   {
     title: "Spring Boot Setup in VS Code",
     content: `
-
-Spring Boot setup in VS Code
-_______________________________
-
 1) Check whether the java, VS Code installed or not
 
 2) Go to VS Code, Install the extensions
@@ -26,39 +22,26 @@ _______________________________
    select java version (prefer 21 lts),
    add dependencies
    (spring web and lombok used for annotations)
-
 `
   },
 
   {
     title: "React Setup in VS Code",
     content: `
-
-React setup in VS Code
-______________________
-
 1) Create a project folder
 
 2) In terminal
-
-npm create vite@latest
-
-and click yes
+    npm create vite@latest
+    and click yes
 
 3) Select
-
-project name : .
-
-framework : react
-
-variant : javascript
-
-install and start : yes
+    project name : .
+    framework : react
+    variant : javascript
+    install and start : yes
 
 4) There you can open
-
-http://localhost:5173
-
+    http://localhost:5173
 `
   }
 ];
