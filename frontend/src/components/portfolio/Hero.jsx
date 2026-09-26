@@ -16,7 +16,7 @@ export default function Hero() {
 
         <h1 className="text-2xl sm:text-4xl md:text-6xl lg:text-7xl font-extrabold tracking-tight text-slate-800 mb-8 flex items-center justify-center w-full">
           <span className="text-indigo-200 font-light mr-3 md:mr-5">{'{'}</span>
-          <span className="uppercase text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-purple-600 whitespace-nowrap">mahesh</span>
+          <span className="uppercase text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-purple-600 whitespace-nowrap">MAHESH THAMMAPPA</span>
           <span className="text-indigo-200 font-light ml-3 md:ml-5">{'}'}</span>
         </h1>
         
