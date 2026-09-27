@@ -85,7 +85,7 @@ export default function Navbar() {
     <nav className="sticky top-0 z-50 bg-white/80 backdrop-blur-md border-b border-slate-200/60 shadow-sm shadow-slate-200/50">
       <div className="max-w-5xl mx-auto px-6 py-4 flex justify-between items-center">
         <Link to="/admin" className="text-xl font-extrabold text-slate-900 tracking-tight hover:text-indigo-600 transition-colors">
-          <span className="text-indigo-600">@</span>maheshthammappa<span className="text-indigo-600">.</span>me 
+          <span className="text-indigo-600">@</span>maheshthammappa
         </Link>
         
         <div className="flex items-center space-x-1 sm:space-x-2">
